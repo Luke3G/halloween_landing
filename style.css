@@ -5,8 +5,13 @@
 .display-4{
     background-color: maroon;
 }
+.container{
+    background-color: maroon;
+}
+.jumbotron{background-color: maroon!important;}
 .row2{
     background-color: rgb(255, 123, 0);
+    text-size-adjust: 150px;
 }
 .img1{
     background-color: rgb(255, 123, 0); 
