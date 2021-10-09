@@ -19,3 +19,24 @@
 .row3{
     background-color: purple;
 }
+h2 h5{
+    font-family: 'Creepster', cursive;
+}
+p{
+font-family: 'Aclonica', sans-serif;
+font-family: 'Creepster', cursive;
+font-size: 23px;
+justify-content: space-between;
+}
+.games{
+    background-color:purple;
+}
+.card{
+    background-color: purple;
+    flex-direction: row;
+}
+footer{
+    background-color: purple;
+    font-size: 28px;
+    font-family: 'Creepster', cursive;
+}
