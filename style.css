@@ -2,6 +2,11 @@
     text-align: center;
     background-color: maroon;
 }
+nav {
+    float: right;
+    margin: 8px;
+}
+
 .display-4{
     background-color: maroon;
 }
